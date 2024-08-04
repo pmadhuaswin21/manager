@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Pen",
+    "description": "cello pinpoint",
+    "price": 10,
+    "quantity": 200,
+    "sales": [
+      {
+        "quantity": 20,
+        "saleDate": "2024-08-04T07:34:34.936Z"
+      },
+      {
+        "quantity": 40,
+        "saleDate": "2024-08-03T07:34:34.936Z"
+      }
+    ]
+  },
+  {
+    "name": "Pencil",
+    "description": "Nataraj Pencil",
+    "price": 5,
+    "quantity": 400,
+    "sales": [
+      {
+        "quantity": 100,
+        "saleDate": "2024-08-02T07:34:34.936Z"
+      },
+      {
+        "quantity": 40,
+        "saleDate": "2024-08-03T07:34:34.936Z"
+      }
+    ]
+  },
+  {
+    "name": "Book",
+    "description": "Classmates Book",
+    "price": 25,
+    "quantity": 100,
+    "sales": [
+      {
+        "quantity": 10,
+        "saleDate": "2024-08-02T07:34:34.936Z"
+      },
+      {
+        "quantity": 10,
+        "saleDate": "2024-08-03T07:34:34.936Z"
+      },
+      {
+        "quantity": 20,
+        "saleDate": "2024-08-01T07:34:34.936Z"
+      }
+    ]
+  },
+  {
+    "name": "Calculator",
+    "description": "Casio Calculator",
+    "price": 700,
+    "quantity": 200,
+    "sales": [
+      {
+        "quantity": 20,
+        "saleDate": "2024-08-04T07:34:34.936Z"
+      },
+      {
+        "quantity": 40,
+        "saleDate": "2024-08-03T07:34:34.936Z"
+      }
+    ]
+  },
+  {
+    "name": "Eraser",
+    "description": "Eraser",
+    "price": 5,
+    "quantity": 400,
+    "sales": [
+      {
+        "quantity": 100,
+        "saleDate": "2024-08-02T07:34:34.936Z"
+      },
+      {
+        "quantity": 40,
+        "saleDate": "2024-08-03T07:34:34.936Z"
+      }
+    ]
+  },
+  {
+    "name": "Graph Paper",
+    "description": "Graph Paper",
+    "price": 1,
+    "quantity": 100,
+    "sales": [
+      {
+        "quantity": 10,
+        "saleDate": "2024-08-02T07:34:34.936Z"
+      },
+      {
+        "quantity": 10,
+        "saleDate": "2024-08-03T07:34:34.936Z"
+      },
+      {
+        "quantity": 20,
+        "saleDate": "2024-08-01T07:34:34.936Z"
+      }
+    ]
+  }
+
+]
